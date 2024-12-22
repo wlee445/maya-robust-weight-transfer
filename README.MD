@@ -13,7 +13,7 @@ mayapy -m pip install scipy
 ```
 
 ## Usage
-
+![image](https://raw.githubusercontent.com/wlee445/maya-robust-weight-transfer/main/data/image/RobustWeightTransferUI.png)
 ### startup
 #### Use `Maya2025.bat` start maya
 ```
